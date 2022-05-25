@@ -5,8 +5,11 @@ import Meta from './Meta'
 const Header = () => {
   return (
     <>
+      <div class="card-body">
         <CoverImage />
         <Meta />
+      </div>
+        
     </>
   )
 }

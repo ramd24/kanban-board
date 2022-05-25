@@ -2,7 +2,7 @@ import React from 'react'
 
 const Separator = () => {
   return (
-    <div>Separator</div>
+    <hr className='hr-separator' />
   )
 }
 
