@@ -8,8 +8,7 @@ const List = () => {
     <>
         <Header />
         <Separator />
-        <Card>Card Content</Card>
-        <Card>Card Content</Card>
+        <Card></Card>
     </>
   )
 }
